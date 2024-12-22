@@ -7,3 +7,10 @@ h1{
 p{
     color: Red;
 }
+button{
+    color: black;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: orange;
+}
